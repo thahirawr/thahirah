@@ -2,7 +2,7 @@
 title: "My Hobbies"
 ---
 
-# My Hobby: **Silat**
+#**Silat**
 
 *Silat*, a traditional martial art, has been a cornerstone of my life. It has instilled in me **discipline**, **resilience**, and a deep respect for cultural heritage.
 
@@ -44,10 +44,10 @@ Silat is more than just a sport—it is an art form that reflects Southeast Asia
 
 Here’s a glimpse of my Silat journey:
 
-![Silat Performance](https://www.youtube.com/watch?v=8gLFRh-Uu6c&t=2076s)
+{{< video https://www.youtube.com/watch?v=8gLFRh-Uu6c&t=2076s width="600" height="400" >}}
 *Caption: Competing in the Tertiary Silat Championship 2022.*
 
-![Team Photo](https://www.instagram.com/sitsilat/)
+![SIT SILAT AGM](images/SIT SILAT.jpg)
 *Caption: Celebrating our achievements with the SIT Silat team.*
 
 ---

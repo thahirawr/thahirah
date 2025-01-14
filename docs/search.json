@@ -1,0 +1,121 @@
+[
+  {
+    "objectID": "hobbies.html",
+    "href": "hobbies.html",
+    "title": "My Hobbies",
+    "section": "",
+    "text": "Silat, a traditional martial art, has been a cornerstone of my life. It has instilled in me discipline, resilience, and a deep respect for cultural heritage.\n\n\n\nHere are some milestones that highlight my journey in Silat:\n\n\n\n\n\n\n\n\nYear\nCompetition\nAchievement\n\n\n\n\n2022\nTertiary Silat Championship\nSilver Medal\n\n\n2022\nRising to Greatness Competition\nBronze Medal\n\n\n2024/25\nSIT Silat Vice Captain\nLeadership Role\n\n\n\n\n\n\n\n\nVice Captain: SIT Silat AY2024/2025.\nRole: Coordinated training, mentored juniors, and strengthened team dynamics.\n\nInstructor: Worked part-time with Aliran Bebas(https://www.instagram.com/aliranbebasofficial/){target=blank}, coaching and organizing silat workshops.\n\n\n\n\n\n\n\n\nDiscipline: Training schedules taught me time management and persistence.\nResilience: Each match tested my ability to push beyond limits.\nLeadership: As Vice Captain, I learned to lead by example and support my team.\n\n\n\n\nSilat is more than just a sport—it is an art form that reflects Southeast Asian heritage. Its unique movements and rituals emphasize the importance of tradition, respect, and community.\n\n\n\n\n\nHere’s a glimpse of my Silat journey:\n\nCaption: Competing in the Tertiary Silat Championship 2022.\n Caption: Celebrating our achievements with the SIT Silat team.\n\n\n\n\nTo explore more about Silat and its cultural significance, visit Wikipedia’s Silat Page."
+  },
+  {
+    "objectID": "hobbies.html#achievements",
+    "href": "hobbies.html#achievements",
+    "title": "My Hobbies",
+    "section": "",
+    "text": "Here are some milestones that highlight my journey in Silat:\n\n\n\n\n\n\n\n\nYear\nCompetition\nAchievement\n\n\n\n\n2022\nTertiary Silat Championship\nSilver Medal\n\n\n2022\nRising to Greatness Competition\nBronze Medal\n\n\n2024/25\nSIT Silat Vice Captain\nLeadership Role"
+  },
+  {
+    "objectID": "hobbies.html#professional-involvement",
+    "href": "hobbies.html#professional-involvement",
+    "title": "My Hobbies",
+    "section": "",
+    "text": "Vice Captain: SIT Silat AY2024/2025.\nRole: Coordinated training, mentored juniors, and strengthened team dynamics.\n\nInstructor: Worked part-time with Aliran Bebas(https://www.instagram.com/aliranbebasofficial/){target=blank}, coaching and organizing silat workshops."
+  },
+  {
+    "objectID": "hobbies.html#why-silat",
+    "href": "hobbies.html#why-silat",
+    "title": "My Hobbies",
+    "section": "",
+    "text": "Discipline: Training schedules taught me time management and persistence.\nResilience: Each match tested my ability to push beyond limits.\nLeadership: As Vice Captain, I learned to lead by example and support my team.\n\n\n\n\nSilat is more than just a sport—it is an art form that reflects Southeast Asian heritage. Its unique movements and rituals emphasize the importance of tradition, respect, and community."
+  },
+  {
+    "objectID": "hobbies.html#gallery",
+    "href": "hobbies.html#gallery",
+    "title": "My Hobbies",
+    "section": "",
+    "text": "Here’s a glimpse of my Silat journey:\n\nCaption: Competing in the Tertiary Silat Championship 2022.\n Caption: Celebrating our achievements with the SIT Silat team."
+  },
+  {
+    "objectID": "hobbies.html#learn-more-about-silat",
+    "href": "hobbies.html#learn-more-about-silat",
+    "title": "My Hobbies",
+    "section": "",
+    "text": "To explore more about Silat and its cultural significance, visit Wikipedia’s Silat Page."
+  },
+  {
+    "objectID": "reflection.html",
+    "href": "reflection.html",
+    "title": "Reflection on the Use of GenAI",
+    "section": "",
+    "text": "Reflection on the Use of GenAI\nIn completing this assessment, I utilized ChatGPT, a generative AI tool developed by OpenAI. This tool was instrumental in helping me structure and refine my Quarto project, offering step-by-step guidance, improving content formatting, and suggesting enhancements for a better user experience. Its ability to simplify complex tasks, such as YAML configuration and styling, made the process more efficient and less intimidating.\nThe benefits of using GenAI include its ability to generate tailored solutions, provide instant feedback, and streamline workflows. However, I found it challenging to communicate very specific needs at times, which occasionally led to suggestions that required further refinement to align with my vision. Overall, I believe GenAI is an excellent companion for technical and creative projects, provided users approach it critically and iteratively to get the best results."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "project.html",
+    "href": "project.html",
+    "title": "Cloud Computing and Big Data Project",
+    "section": "",
+    "text": "This project focuses on leveraging cloud computing technologies to analyze and extract insights from Twitter data related to U.S. airlines. It demonstrates the integration of distributed computing tools with AWS services to address real-world challenges in customer sentiment analysis.\n\n\n\nObjective:\nTo analyze Twitter data for U.S. airlines using distributed computing tools like Apache Spark, Hadoop MapReduce, and AWS services. The project aims to identify trends in customer dissatisfaction and provide actionable insights for improving service quality.\n\n\n\nName\nTasks Handled\n\n\n\n\nHazirah Binte Noor Azhar\nTasks 4, 6\n\n\nNur Afiqah Bte Omar\nTasks 1, 6\n\n\nSim Si Min Nicole\nTasks 3, 6\n\n\nTan Yu Jin (Chen Yujin)\nTasks 5, 6\n\n\nThahirah Binti Abdul Rahman\nTasks 2, 6\n\n\n\n\n\n\n\n\n\n\nObjective: Count delayed flight mentions using Apache Spark and AWS EMR.\nData Flow:\n\nInput: Raw data from 10 Excel files cleaned into a single CSV.\nProcessing: PySpark filters and counts delay mentions.\nOutput: Results stored in Amazon S3.\n\n\n\n\n\n\n\nObjective: Analyze the top 5 negative feedback reasons for each airline.\nData Flow:\n\nInput: Raw data uploaded to S3.\nProcessing: Spark processes data for top complaint reasons.\nOutput: Results saved in CSV format to S3.\n\n\n\n\n\n\n\nObjective: Identify the country with the most airline complaints using Hadoop MapReduce.\nData Flow:\n\nInput: ISO-3166 Alpha-3 codes and cleaned data.\nProcessing: Map-side join and sorting to identify complaints by country.\nOutput: Results sorted in descending order.\n\n\n\n\n\n\n\nDescription: Outputs from Task 6 are stored in a MySQL RDS database for scalability and reliability.\nBenefits: Persistent cloud storage ensures easy access and efficient querying.\n\n\n\n\n\n\n\nDebugging on EMR: Limited visibility was mitigated using Jupyter Notebooks for local testing.\nDataset Issues: Cleaning and filtering were essential for maintaining data integrity.\nVisualization Dependencies: Installing required libraries like Matplotlib and Seaborn resolved plotting issues on AWS.\n\n\n\n\n\n\nMost Common Complaints: Flight delays, lost baggage, and poor service.\nGeographic Trends: The U.S. had the highest volume of complaints.\nVisualization: Heatmaps and bar charts provided actionable insights for airlines.\n\n\n\n\n\nThis project highlights the power of cloud computing in handling large-scale datasets and deriving meaningful insights. By integrating AWS services with distributed computing tools, we demonstrated the potential to address complex challenges in customer sentiment analysis effectively."
+  },
+  {
+    "objectID": "project.html#project-overview",
+    "href": "project.html#project-overview",
+    "title": "Cloud Computing and Big Data Project",
+    "section": "",
+    "text": "Objective:\nTo analyze Twitter data for U.S. airlines using distributed computing tools like Apache Spark, Hadoop MapReduce, and AWS services. The project aims to identify trends in customer dissatisfaction and provide actionable insights for improving service quality.\n\n\n\nName\nTasks Handled\n\n\n\n\nHazirah Binte Noor Azhar\nTasks 4, 6\n\n\nNur Afiqah Bte Omar\nTasks 1, 6\n\n\nSim Si Min Nicole\nTasks 3, 6\n\n\nTan Yu Jin (Chen Yujin)\nTasks 5, 6\n\n\nThahirah Binti Abdul Rahman\nTasks 2, 6"
+  },
+  {
+    "objectID": "project.html#key-tasks-and-implementation",
+    "href": "project.html#key-tasks-and-implementation",
+    "title": "Cloud Computing and Big Data Project",
+    "section": "",
+    "text": "Objective: Count delayed flight mentions using Apache Spark and AWS EMR.\nData Flow:\n\nInput: Raw data from 10 Excel files cleaned into a single CSV.\nProcessing: PySpark filters and counts delay mentions.\nOutput: Results stored in Amazon S3.\n\n\n\n\n\n\n\nObjective: Analyze the top 5 negative feedback reasons for each airline.\nData Flow:\n\nInput: Raw data uploaded to S3.\nProcessing: Spark processes data for top complaint reasons.\nOutput: Results saved in CSV format to S3.\n\n\n\n\n\n\n\nObjective: Identify the country with the most airline complaints using Hadoop MapReduce.\nData Flow:\n\nInput: ISO-3166 Alpha-3 codes and cleaned data.\nProcessing: Map-side join and sorting to identify complaints by country.\nOutput: Results sorted in descending order.\n\n\n\n\n\n\n\nDescription: Outputs from Task 6 are stored in a MySQL RDS database for scalability and reliability.\nBenefits: Persistent cloud storage ensures easy access and efficient querying."
+  },
+  {
+    "objectID": "project.html#challenges-and-solutions",
+    "href": "project.html#challenges-and-solutions",
+    "title": "Cloud Computing and Big Data Project",
+    "section": "",
+    "text": "Debugging on EMR: Limited visibility was mitigated using Jupyter Notebooks for local testing.\nDataset Issues: Cleaning and filtering were essential for maintaining data integrity.\nVisualization Dependencies: Installing required libraries like Matplotlib and Seaborn resolved plotting issues on AWS."
+  },
+  {
+    "objectID": "project.html#results-and-insights",
+    "href": "project.html#results-and-insights",
+    "title": "Cloud Computing and Big Data Project",
+    "section": "",
+    "text": "Most Common Complaints: Flight delays, lost baggage, and poor service.\nGeographic Trends: The U.S. had the highest volume of complaints.\nVisualization: Heatmaps and bar charts provided actionable insights for airlines."
+  },
+  {
+    "objectID": "project.html#final-reflection",
+    "href": "project.html#final-reflection",
+    "title": "Cloud Computing and Big Data Project",
+    "section": "",
+    "text": "This project highlights the power of cloud computing in handling large-scale datasets and deriving meaningful insights. By integrating AWS services with distributed computing tools, we demonstrated the potential to address complex challenges in customer sentiment analysis effectively."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Thahirah",
+    "section": "",
+    "text": "Hello! I’m Thahirah, an aspiring fintech professional passionate about using technology to reshape financial services. This website showcases my journey, reflections, and hobbies. Feel free to explore!\n\n\nI am Thahirah, a student specializing in Financial Technology at the Singapore Institute of Technology. My focus is on bridging technology with finance to create innovative, impactful solutions.\n\n\n\n\n\n\nSpecialization: Financial Technology (Applied Computing)\nProgram: Currently pursuing my degree at SIT, focusing on the intersection of technology and finance.\n\n\n\n\n\nProgram: Computer Engineering\nHighlights: Gained foundational skills in computer systems, programming, and IT infrastructure.\n\n\n\n\n\nHighlights: Developed a strong academic foundation, actively participated in extracurricular activities, and honed leadership skills.\n\n\n\n\n\nFintech technologies\nRide-hailing innovations\nCloud computing and database systems\n\n\n\n\n\nTo contribute to fintech advancements globally and leverage technology for financial inclusion.\n\nIn my free time, I enjoy exploring new tech trends, practicing silat, and immersing myself in innovative projects."
+  },
+  {
+    "objectID": "index.html#about-me",
+    "href": "index.html#about-me",
+    "title": "Thahirah",
+    "section": "",
+    "text": "I am Thahirah, a student specializing in Financial Technology at the Singapore Institute of Technology. My focus is on bridging technology with finance to create innovative, impactful solutions."
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Thahirah",
+    "section": "",
+    "text": "Specialization: Financial Technology (Applied Computing)\nProgram: Currently pursuing my degree at SIT, focusing on the intersection of technology and finance.\n\n\n\n\n\nProgram: Computer Engineering\nHighlights: Gained foundational skills in computer systems, programming, and IT infrastructure.\n\n\n\n\n\nHighlights: Developed a strong academic foundation, actively participated in extracurricular activities, and honed leadership skills.\n\n\n\n\n\nFintech technologies\nRide-hailing innovations\nCloud computing and database systems\n\n\n\n\n\nTo contribute to fintech advancements globally and leverage technology for financial inclusion.\n\nIn my free time, I enjoy exploring new tech trends, practicing silat, and immersing myself in innovative projects."
+  }
+]

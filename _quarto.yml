@@ -4,12 +4,14 @@ project:
 
 
 website:
-  title: "thahirwr"
+  title: "Thahirah"
   navbar:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - project.qmd
+      - reflection.qmd
+      - hobbies.qmd
 
 format:
   html:

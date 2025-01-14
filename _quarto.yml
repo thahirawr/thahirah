@@ -9,9 +9,12 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - project.qmd
-      - reflection.qmd
-      - hobbies.qmd
+      - href: project.qmd
+        text: Projects
+      - href: reflection.qmd
+        text: Reflection
+      - href: hobbies.qmd
+        text: Hobbies
 
 format:
   html:

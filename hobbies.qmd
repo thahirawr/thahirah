@@ -46,14 +46,12 @@ Here’s a glimpse of my Silat journey:
 
 {{< video https://www.youtube.com/watch?v=8gLFRh-Uu6c&t=2076s width="600" height="400" >}}
 *Caption: Competing in the Tertiary Silat Championship 2022.*
-
-*Caption: Celebrating our achievements with the SIT Silat team.*
+  
 ::: {style="float:left; position: relative; top: 0px"}
 ![](images/SIT SILAT.jpg){height="100px" style="margin-right: 10px; align: left"}
 :::
 
 This was the recent SIT Silat AGM that happened last week. I was announced Vice-Captain and Secretary.
-
 ---
 
 ## 🔗 **Learn More About Silat**
